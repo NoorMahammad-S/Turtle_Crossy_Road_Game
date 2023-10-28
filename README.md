@@ -2,7 +2,7 @@
 This is a Python game created using the Turtle graphics library. In this game, the player controls a turtle and 
 tries to cross a busy road while avoiding oncoming cars.
 
-[Screenshots(https://github.com/NoorMahammad-S/Turtle_Crossy_Road_Game/blob/master/Turtle%20Crossy%20Road%20Game.JPG)]
+[Turtle Crossy Road Game Image](https://github.com/NoorMahammad-S/Turtle_Crossy_Road_Game/blob/master/Turtle%20Crossy%20Road%20Game.JPG)
 
 
 ## Getting Started
